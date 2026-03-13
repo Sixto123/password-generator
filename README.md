@@ -13,3 +13,6 @@ Aplicación web sencilla para generar contraseñas aleatorias de forma rápida y
 - HTML
 - CSS
 - JavaScript
+
+## Demo
+https://sixto123.github.io/password-generator/
